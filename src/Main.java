@@ -2,6 +2,6 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("First Version Is Complete");
+        System.out.println(" Version Is Complete");
     }
 }
